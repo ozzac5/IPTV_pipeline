@@ -1,5 +1,5 @@
 {
-  "versionCode": 2020,
+  "versionCode": 2030,
   "versionName": "3.2.7",
   "Msg": "
 📢 تنبيه مهم!
